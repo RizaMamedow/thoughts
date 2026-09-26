@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Thoughts</string>
+
+    <string name="menu_description">Menu</string>
+    <string name="search_description">Search</string>
+    <string name="search_placeholder">Search thoughts and tags</string>
+
+    <string name="quick_input_hint_default">What\'s on your mind? #tag</string>
+    <string name="quick_input_hint_tag">A thought in #%1$s…</string>
+    <string name="send_description">Save</string>
+
+    <string name="tag_chip_format">#%1$s · %2$d</string>
+
+    <string name="empty_state_no_thoughts">It\'s empty here.\nWrite your first thought below —\nadd a #tag to find it later by topic.</string>
+    <string name="empty_state_no_results">Nothing found</string>
+
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+
+    <string name="thought_deleted">Thought deleted</string>
+    <string name="undo">Undo</string>
+    <string name="delete_description">Delete</string>
+
+    <string name="selected_count">Selected: %1$d</string>
+    <string name="clear_selection_description">Clear selection</string>
+    <string name="tag_description">Tag</string>
+    <string name="copy_description">Copy text</string>
+    <string name="copied_count">Copied: %1$d</string>
+    <string name="deleted_count">Deleted: %1$d</string>
+
+    <string name="bulk_tag_dialog_title">Tag for selected</string>
+    <string name="tag_placeholder">tag</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+
+    <string name="edit_dialog_title">Edit</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="drawer_about">About</string>
+
+    <string name="about_description">A simple notebook for quick thoughts with tags.</string>
+    <string name="about_version">Version %1$s</string>
+    <string name="ok">OK</string>
+
+    <string name="settings_language">Language</string>
+    <string name="settings_theme">Theme</string>
+    <string name="language_russian">Русский</string>
+    <string name="language_english">English</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+</resources>
